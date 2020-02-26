@@ -41,3 +41,4 @@ end
 #using_uniq
 def using_uniq(my_favorite_fruits)
   my_favorite_fruits.uniq
+end
