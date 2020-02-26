@@ -49,8 +49,8 @@ def using_flatten(my_favorite_fruits)
 end
 
 #using delete
-def using_delete(my_favorite_fruits, juice)
-  my_favorite_fruits.delete(juice)
+def using_delete(my_favorite_fruits, papaya)
+  my_favorite_fruits.delete(papaya)
 end
 
 #using delete at
