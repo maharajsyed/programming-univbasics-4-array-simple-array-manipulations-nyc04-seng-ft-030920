@@ -33,8 +33,7 @@ def using_concat(my_favorite_fruits, more_fruits)
   my_favorite_fruits.concat(more_fruits)
 end
 
-#using_concat(my_favorite_fruits, more_fruits)
 #using insert 
-
+def using_insert()
 
 #
