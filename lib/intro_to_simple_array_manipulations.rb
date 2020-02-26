@@ -52,3 +52,8 @@ end
 def using_delete(my_favorite_fruits, juice)
   my_favorite_fruits.delete(juice)
 end
+
+#using delete at
+def using_delete_at(my_favorite_fruits, 4)
+  my_favorite_fruits.delete(4)
+end
