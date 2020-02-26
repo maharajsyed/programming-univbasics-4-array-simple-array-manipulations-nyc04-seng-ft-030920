@@ -35,6 +35,6 @@ end
 
 #using insert 
 def using_insert(my_favorite_fruits, more_fruits)
-  
+  new_favorite_fruits
 
 #
