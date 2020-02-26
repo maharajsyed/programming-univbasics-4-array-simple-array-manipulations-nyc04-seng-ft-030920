@@ -38,4 +38,6 @@ def using_insert(my_favorite_fruits, more_fruits)
   my_favorite_fruits.insert(4, more_fruits)
 end
 
-#
+#using_uniq
+def using_uniq(my_favorite_fruits)
+  my_favorite_fruits.uniq
