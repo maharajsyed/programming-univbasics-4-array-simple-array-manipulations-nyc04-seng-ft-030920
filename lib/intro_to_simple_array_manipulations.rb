@@ -42,3 +42,9 @@ end
 def using_uniq(my_favorite_fruits)
   my_favorite_fruits.uniq
 end
+
+#using_flatten
+def using_flatten(my_favorite_fruits)
+  my_favorite_fruits.flatten
+end
+
