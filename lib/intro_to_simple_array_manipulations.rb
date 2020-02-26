@@ -38,13 +38,17 @@ def using_insert(my_favorite_fruits, more_fruits)
   my_favorite_fruits.insert(4, more_fruits)
 end
 
-#using_uniq
+#using uniq
 def using_uniq(my_favorite_fruits)
   my_favorite_fruits.uniq
 end
 
-#using_flatten
+#using flatten
 def using_flatten(my_favorite_fruits)
   my_favorite_fruits.flatten
 end
 
+#using delete
+def using_delete(my_favorite_fruits, juice)
+  my_favorite_fruits.delete(juice)
+end
